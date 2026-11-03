@@ -2,6 +2,13 @@
 
 CarbonCap เป็นเว็บแอปแบบหน้าเดียว (single-file) ที่ใช้สำรวจโครงการเกษตรตัวอย่างผ่านภาพดาวเทียมจริงจาก Google Earth Engine พร้อมเครื่องมือจำลองการซื้อเครดิตคาร์บอน โดยทุกอย่างรันในเบราว์เซอร์ของคุณ ไม่มีเซิร์ฟเวอร์หรือการชำระเงินจริง
 
+## เว็บออนไลน์
+
+- [เปิด CarbonCap บน GitHub Pages](https://matchagtea.github.io/CarbonCap-pages/)
+- Repository หลัก `MatchaGtea/CarbonCap` เป็น Private
+- [CarbonCap-pages](https://github.com/MatchaGtea/CarbonCap-pages) เป็น Public สำหรับเผยแพร่เฉพาะ `index.html` และ `.nojekyll` จาก branch `codex/github-pages`
+- เมื่อแก้แอปใน repository หลัก ต้องนำ `index.html` รุ่นล่าสุดไปอัปเดต repository เผยแพร่ด้วย
+
 ## วิธีเปิดใช้งาน (ออฟไลน์)
 
 1. ดาวน์โหลดไฟล์ `index.html` ไฟล์เดียว

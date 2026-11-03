@@ -131,6 +131,8 @@ CarbonCap เป็นแนวคิดบริการที่ใช้ AI 
 - DeepSeek เป็นผู้เขียนและแก้โค้ดผ่าน TokenMe โดยแบ่งงานเป็นส่วนย่อย Codex เตรียมข้อมูล กำหนดงาน และตรวจรับ
 - เอกสารประกอบ: README.md, GLOSSARY.md, ADR, docs/gee-manifest.json และ docs/imagery-provenance.md
 - Repository แบบ Private: [MatchaGtea/CarbonCap](https://github.com/MatchaGtea/CarbonCap)
+- เว็บไซต์สาธารณะ: [CarbonCap บน GitHub Pages](https://matchagtea.github.io/CarbonCap-pages/)
+- Repository เผยแพร่แบบ Public: [MatchaGtea/CarbonCap-pages](https://github.com/MatchaGtea/CarbonCap-pages) มีเฉพาะ index.html และ .nojekyll โดยใช้ branch codex/github-pages ตามที่ผู้ใช้อนุญาต เพื่อให้ repo หลักและเอกสารยังเป็น Private
 
 ตรวจผ่าน:
 
