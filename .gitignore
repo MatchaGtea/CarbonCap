@@ -1,0 +1,12 @@
+# Build inputs (assets + rebuild scripts) — generated index.html is committed
+.build-inputs/
+
+# macOS
+.DS_Store
+
+# Local QA screenshots / traces
+*.png.screenshot
+*.trace
+qa-screenshots/
+.trace/
+screenshots/
