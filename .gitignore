@@ -1,4 +1,4 @@
-# Build inputs (assets + rebuild scripts) — generated index.html is committed
+# Local build scratch files (selected source and asset fixtures are versioned)
 .build-inputs/
 
 # macOS

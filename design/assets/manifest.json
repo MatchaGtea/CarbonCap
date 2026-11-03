@@ -1,0 +1,23 @@
+{
+  "mode": "Built-in imagegen",
+  "assets": [
+    {
+      "key": "farmer",
+      "file": "farmer.png",
+      "source": "/Users/matcha/.codex/generated_images/01a1a1b3-b427-7660-b78e-8b95c74a025a/exec-0593a0ef-14fb-49ad-b699-864148683f15.png",
+      "prompt": "Use case: background-extraction. Asset type: transparent production illustration for CarbonCap web app. Edit target is the supplied approved UI concept. Extract and faithfully recreate ONLY the top-right farmer planting a sapling on the blue/green globe, the blue satellite, leaves and pale sky blue organic backdrop. Isolate this complete illustration as one standalone wide asset on genuine transparent background outside the organic sky/earth shape. Preserve exact character, pose, green apron, blue shirt, straw hat, simple clean flat environmental illustration style, proportions and colors of the approved concept. The illustration must fill canvas, landscape approximately 2.1:1 composition. No UI, no text, no buttons, no borders, no watermark, no interface screenshot. Keep pale blue backdrop within illustration; outside shape transparent. High quality clean edges, suitable display width 580px."
+    },
+    {
+      "key": "farm",
+      "file": "farm.png",
+      "source": "/Users/matcha/.codex/generated_images/01a1a1b3-b427-7660-b78e-8b95c74a025a/exec-886fd815-0284-4970-a77d-1601c98bab7a.png",
+      "prompt": "Use case: background-extraction. Asset type: transparent production illustration for CarbonCap project detail header. Edit target is supplied approved UI concept. Extract and faithfully recreate ONLY the top-right small green terraced farm landscape illustration, blue mountains, pale blue sky/clouds, hut and trees. Isolate as a standalone wide approximately 3:1 landscape asset on genuinely transparent background outside the organic landscape silhouette. Preserve exact flat vectorlike style, layered gentle blue mountains, lime and forest green fields and foliage. No person, no text, no UI, no buttons, no screenshot or border. Fill canvas cleanly, all plants inside bounds. Match approved original colors and airy shape."
+    },
+    {
+      "key": "globe",
+      "file": "globe.png",
+      "source": "/Users/matcha/.codex/generated_images/01a1a1b3-b427-7660-b78e-8b95c74a025a/exec-1d2f9859-0143-4851-b52c-3a3147d5ea94.png",
+      "prompt": "Use case: background-extraction. Asset type: transparent production illustration for CarbonCap portfolio header. Edit target supplied approved UI concept. Extract and faithfully recreate ONLY the top-right blue and lime green globe with surrounding pale blue clouds, green leaves and small blue decorative strokes. Isolate as one compact standalone illustration on true transparent background. Preserve exact shapes, clean flat illustration style and green/blue color palette. No text, no UI, no buttons, no frame or border. Keep globe entirety and plant leaves, leave only modest edge breathing room. Approximately 1.4:1 landscape composition."
+    }
+  ]
+}
